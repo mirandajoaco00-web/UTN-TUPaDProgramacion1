@@ -390,3 +390,5 @@ if vida_gladiador > 0:
     print(f"¡VICTORIA! {nombre_usuario} ha ganado la batalla.")
 else:
     print("DERROTA. Has caído en combate.")
+
+    ## Cambio realizado en la rama desarrollo

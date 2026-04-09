@@ -391,4 +391,7 @@ if vida_gladiador > 0:
 else:
     print("DERROTA. Has caído en combate.")
 
+
     # Cambio Final desde el main
+
+    
